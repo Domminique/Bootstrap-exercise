@@ -1,0 +1,25 @@
+#introduction to bootstrap
+concepts
+-responsiveness
++This refferes to layout ability to a layout ability to adpt to a particular screen size.
+-Grid system
++Bootstrap uses a 12-column grid system
++To use this ,we create a parent element and give it the class "container" or "container-fluid"
++Next we add the clas "row" to nay children of the elememnt with class "comtainer ".After this crreate a columns inside the row using the col-screen-size
+
+
+<section class="container">
+<div class="row">
+<div class="col-sm-4"
+.......
+</div>
+<div class="col-sm-4"
+.......
+</div>
+<div class="col-sm-4"
+.......
+</div>
+</section>
+
+
+NB :ALL COLUMN SIZES MUST Add UPTO 12
