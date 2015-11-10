@@ -1,0 +1,21 @@
+#slogan{
+	background-image: url("images/wal.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding:270px 0px;
+	font-size: 35px;
+	font-family: cursive;
+	text-shadow:1px 1px 0px #000000;
+	color:#ffffff;
+	
+}
+button{
+	padding:200px 0px;
+	font-size: 35px;
+	font-family: cursive;
+	text-shadow:1px 1px 0px #000000;
+	color:#ffffff;
+	
+
+}
